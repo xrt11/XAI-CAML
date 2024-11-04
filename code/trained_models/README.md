@@ -1,0 +1,1 @@
+The trained CAML models and the trained black-box models that are expected to be explained are put into this folder.
