@@ -37,7 +37,7 @@ The Brain Tumor dataset 2 can be found at https://www.kaggle.com/datasets/dschet
 The Retinal Fundus Multi-Disease Image Dataset (RFMID) is available for download at: https://riadd.grand-challenge.org/download-all-classes/.
 
 ## Data used for training and testing in our paper is available at:
-The data used for training and testing in our experiment can be downloaded from https://drive.google.com/drive/folders/1qh8fGZ6aqVSRtWpGHtWdnb6vqRDFUbO\\Y?dmr=1\&ec=wgc-drive-hero-goto
+The data used for training and testing in our experiment can be downloaded from https://drive.google.com/drive/folders/1qh8fGZ6aqVSRtWpGHtWdnb6vqRDFUbOY?dmr=1&ec=wgc-drive-hero-goto
 
 ## Explanation Regarding Training and Testing Datasets
 - After downloading the datasets, you are supposed to put them into './data/', and the file format reference is as follows. (take the Brain Tumor2 dataset as an example.)
